@@ -1,5 +1,18 @@
-
 body {
-    background-color: aqua;
-    justify-content: center;
+  justify-content: center;
+  background-image: linear-gradient(
+    to top,
+    #1d00ff,
+    #007bff,
+    #00a8ff,
+    #00c9d2,
+    #00e49d,
+    #77e16b,
+    #b4d938,
+    #edcb00,
+    #ffa439,
+    #ff8265,
+    #fb6e8b,
+    #d16ba5
+  );
 }
